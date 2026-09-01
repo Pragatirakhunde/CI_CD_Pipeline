@@ -1,5 +1,5 @@
 def calculate_grade(marks):
-    if marks >= 90:
+    if marks >= 100:
         return "A"
     elif marks >= 75:
         return "B"
